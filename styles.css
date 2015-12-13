@@ -1,0 +1,15 @@
+.paragrafy {
+	color:#d2f8f8;
+}
+body{
+	background-color:orange;
+background-image:url("http://users2.ml.mindenkilapja.hu/users/abcdefghijklly/uploads/star-wars-battlefront-2-games-widescreen-wallpapers.jpg");
+color:white;
+}
+a {
+	color:#0000cc;
+	font-size: 40px;
+}
+a:visited{
+	color:#333300;
+}

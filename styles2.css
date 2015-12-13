@@ -1,0 +1,13 @@
+body{
+	background-color:navy
+;
+	background-image:url("http://media.details.com/photos/5626363720b650e30b781ea7/master/w_806/star-wars-force-awakens-posters-4.jpg");
+color:white;
+background-repeat:no-repeat;
+}
+a {
+	color:yellow;
+}
+a:visited {
+	color:white;
+}
